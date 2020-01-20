@@ -1,0 +1,25 @@
+.Header {
+    text-align: center;
+  }
+  
+  .Header-logo {
+    height: 4vmin;
+    padding-left: 50px;
+  }
+  
+  .Header-header {
+    background-color: #282c34;
+    min-height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(2px + 2vmin);
+    color: white;
+    
+  }
+  
+  .Header-link {
+    color: #09d3ac;
+    padding-right: 50px;
+  }
